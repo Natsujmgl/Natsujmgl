@@ -1,12 +1,8 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiNTBjODgwM2YxN2E4ZGRiYjJlMDI0NzQxN2Y1ZGJkYjY1ZTVkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1TVFC9TRTi/giphy.gif"  />
-</div>
-
 ###
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2094F3&center=true&vCenter=true&width=435&lines=Hola!+Soy+Natsujmgl+👋;Desarrollador+Apasionado;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2094F3&center=true&vCenter=true&width=435&lines=Natsujmgl+;Desarrollador+Apasionado;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
   </a>
 </div>
 
